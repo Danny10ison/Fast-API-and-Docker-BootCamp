@@ -1,4 +1,4 @@
-Good programming language frameworks make it easy to produce quality products faster. Great frameworks even make the whole development experience enjoyable. **FastAPI** is a modern, fast (high-performance), a web framework for building APIs with Python. It is easy to learn, fast to code, and production-ready. The most exciting feature of FastAPI is that it supports asynchronous code out of the box using the async/await Python keywords. Testing FastAPI endpoints are really straightforward and can be done using TestClient provided by FastAPI. This makes Test Driven Development(TDD) very easy. It us also easy to deploy your Fast API application and APIs.
+Good programming language frameworks make it easy to produce quality products faster. Great frameworks even make the whole development experience enjoyable. **FastAPI** is a modern, fast (high-performance), a web framework for building APIs with Python. It is easy to learn, fast to code, and production-ready. The most exciting feature of FastAPI is that it supports asynchronous code out of the box using the async/await Python keywords. Testing FastAPI endpoints are really straightforward and can be done using TestClient provided by FastAPI. This makes Test Driven Development(TDD) very easy. It is also easy to deploy your Fast API application and APIs.
 
 > FastAPI is a Python web framework that has been built from the ground up to make use of modern Python features. It uses the ASGI standard for asynchronous, concurrent connectivity with clients, and it can work with WSGI if needed. Async functions can be used for routes and endpoints. And FastAPI allows web applications to be written efficiently in clean, modern Python code with type hints.
 
@@ -41,13 +41,13 @@ Developers can create containers without Docker, but the platform makes it easie
 **What you are expected to learn on Day 1:**
 
  - Introduction to Python for Web Development
- - Learn how to create a “repository” (project) with a git hosting tool (like GitHub or Bitbucket)
- - Learn how to copy/clone the repository to your local machine
- - Learn how to add a file to your local repo and “commit” (save) the changes
- - Learn how to “Push” your changes to your master branch
- - Learn how to make a change to your file with a git hosting tool and commit
- - Learn how to “Pull” the changes to your local machine
- - Learn how to create a “branch” (version), make a change, commit the change
+ - Learn how to create a “repository” (project) with a git hosting tool (like GitHub or Bitbucket) (done)
+ - Learn how to copy/clone the repository to your local machine (done)
+ - Learn how to add a file to your local repo and “commit” (save) the changes (done)
+ - Learn how to “Push” your changes to your master branch (done)
+ - Learn how to make a change to your file with a git hosting tool and commit (done)
+ - Learn how to “Pull” the changes to your local machine (done)
+ - Learn how to create a “branch” (version), make a change, commit the change (done)
  - Learn how to open a “pull request”.
  - Learn how to “Merge” your branch to the master branch
 
@@ -56,6 +56,10 @@ Developers can create containers without Docker, but the platform makes it easie
 
 ---
 **Day 2: Introduction to Fast API** 
+
+Learn Python here;
++ https://blog.teclado.com/30-days-of-python/
++ https://github.com/Asabeneh/30-Days-Of-Python
 
 **What you are expected to learn on Day 2 ( Virtual Class ) :** 
 
